@@ -11,7 +11,9 @@ Este projeto consiste em um carrossel de imagens que permite aos usuários naveg
 ![image](https://github.com/Iago-92-oliveira/slide-carrossel/assets/113316924/6c804325-915c-4770-809b-6da994a6848a)
 
 
-# site está no ar em 
+# site 
+
+
 https://iago-92-oliveira.github.io/slide-carrossel/
 
 
